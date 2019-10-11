@@ -19,8 +19,8 @@ Algorithm: (1) Genetic Algorithm (2) Simulate Annealing Algorithm
 ### 3. [8-puzzle](https://github.com/Hank-Tsou/Artificial-Intelligence-8-puzzle)
 ```
 Algorithm: 'A' star Algorithm with 2 different heuristic function
-* h1: (the number of misplace tiles)
-* h2: (Manhattan Distance)
+  * h1: (the number of misplace tiles)
+  * h2: (Manhattan Distance)
 ```
 
 ![](8_puzzle.jpg)
