@@ -1,5 +1,4 @@
 # Artificial Intelligence-Game Strategy
-
 ### This project is trying to develop an AI for 3 games
 
 
