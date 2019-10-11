@@ -1,25 +1,27 @@
 # Artificial Intelligence-Game Strategy
-```
-This project is trying to develop an AI for 3 games
-```
 
-1. [Four-in-a-line](https://github.com/Hank-Tsou/Artificial-Intelligence-four-in-a-line)
+### This project is trying to develop an AI for 3 games
+
+
+### 1. [Four-in-a-line](https://github.com/Hank-Tsou/Artificial-Intelligence-four-in-a-line)
 ```
 Algorithm: Minimax algorithm with alpha-beta pruning
 ```
 
 ![](four_in_a_line.jpg)
 
-2. [N-queen](https://github.com/Hank-Tsou/Artificial-Intelligence-N-queen)
+### 2. [N-queen](https://github.com/Hank-Tsou/Artificial-Intelligence-N-queen)
 ```
 Algorithm: (1) Genetic Algorithm (2) Simulate Annealing Algorithm
 ```
 
 ![](N_queen.jpg)
 
-3. [8-puzzle](https://github.com/Hank-Tsou/Artificial-Intelligence-8-puzzle)
+### 3. [8-puzzle](https://github.com/Hank-Tsou/Artificial-Intelligence-8-puzzle)
 ```
-Algorithm: 'A' star Algorithm with 2 different heuristic function, (the number of misplace tiles)(Manhattan Distance)
+Algorithm: 'A' star Algorithm with 2 different heuristic function
+* h1: (the number of misplace tiles)
+* h2: (Manhattan Distance)
 ```
 
 ![](8_puzzle.jpg)
