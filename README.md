@@ -1,4 +1,4 @@
-# Artificial Intelligence-Game Strategy
+# Artificial Intelligence in Java-Game Strategy
 ### This project is trying to develop an AI for 3 games
 
 
