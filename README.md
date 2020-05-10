@@ -35,7 +35,7 @@ Algorithm: 'A' star Algorithm with 2 different heuristic function
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Reference
 
 * Author: Hank Tsou
 * Contact: hank630280888@gmail.com
